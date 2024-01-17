@@ -1,2 +1,2 @@
 # ClickerGame
-Clicker web game
+Clicker web game. Made by Sudhanv Komanduri.
